@@ -1,6 +1,7 @@
 ---
 title: Models
 notebook: olives-model.ipynb
+nav_include: 2
 ---
 
 ## Contents
@@ -8,8 +9,7 @@ notebook: olives-model.ipynb
 *  
 {: toc}
 ---
-nav_include: 2
----
+
 
 
 
