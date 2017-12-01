@@ -1,5 +1,14 @@
+---
+title: Models
+notebook: olives-model.ipynb
+nav_include: 2
+---
 
-# Models
+## Contents
+{:.no_toc}
+*  
+{: toc}
+
 
 
 
@@ -31,11 +40,11 @@ df.head()
     .dataframe thead tr:only-child th {
         text-align: right;
     }
-
+    
     .dataframe thead th {
         text-align: left;
     }
-
+    
     .dataframe tbody tr th {
         vertical-align: top;
     }
@@ -163,11 +172,11 @@ dfsouth.head()
     .dataframe thead tr:only-child th {
         text-align: right;
     }
-
+    
     .dataframe thead th {
         text-align: left;
     }
-
+    
     .dataframe tbody tr th {
         vertical-align: top;
     }
@@ -355,11 +364,11 @@ dfnosouth.head()
     .dataframe thead tr:only-child th {
         text-align: right;
     }
-
+    
     .dataframe thead th {
         text-align: left;
     }
-
+    
     .dataframe tbody tr th {
         vertical-align: top;
     }
